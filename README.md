@@ -1,7 +1,7 @@
 # CondyleBase
 
 <p align="center">
-  <img src="LOGOS/nias_emc_utp.png" alt="NIAS, EMC e Universidade Tuiuti do Paraná" height="80"/>
+  <img src="LOGOS/nias_emc_utp.png" alt="NIAS, EMC e Universidade Tuiuti do Paraná" height="120"/>
 </p>
 
 Este repositório contém a base de dados e o pipeline completo de processamento
@@ -14,7 +14,7 @@ em colaboração com o **Escritório Modelo de Computação (EMC)** da
 
 ---
 
-## Estrutura de pastas
+## Estrutura de diretórios
 
 ### A_ORIGINAL / N_ORIGINAL
 Imagens radiográficas originais, sem qualquer processamento, referentes às
@@ -33,7 +33,7 @@ Imagens externas utilizadas para validação e avaliação do modelo, permitindo
 análise do desempenho em dados não utilizados no treinamento.
 
 ### PROGRAMAS
-Notebooks Jupyter organizados em ordem sequencial do pipeline experimental:
+Notebooks Jupyter, utilizando o ambiente Google Colab, organizados em ordem sequencial do pipeline experimental:
 1. Renomeação das imagens  
 2. Padronização geométrica e de contraste  
 3. Extração automática de ROIs  
@@ -43,10 +43,6 @@ Notebooks Jupyter organizados em ordem sequencial do pipeline experimental:
 ### YOLO
 Arquivos de configuração, treinamento e resultados do modelo YOLOv8 empregado
 na classificação morfológica do côndilo mandibular.
-
-### REGISTROS
-Arquivos de rastreabilidade, logs de processamento e registros auxiliares
-utilizados para documentação e controle experimental.
 
 ---
 
