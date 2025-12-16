@@ -5,11 +5,11 @@
 </p>
 
 Este repositório contém a base de dados e o pipeline completo de processamento
-utilizados na pesquisa de doutorado sobre a **classificação morfológica do
+utilizados na pesquisa sobre a **classificação morfológica do
 côndilo mandibular (Normal e Achatado)** em imagens radiográficas.
 
 A pesquisa foi desenvolvida no âmbito do **Núcleo de Inovação e Aplicações em Saúde (NIAS)**,
-em colaboração com o **Espaço Multidisciplinar de Computação (EMC)** da
+em colaboração com o **Escritório Modelo de Computação (EMC)** da
 **Universidade Tuiuti do Paraná (UTP)**.
 
 ---
