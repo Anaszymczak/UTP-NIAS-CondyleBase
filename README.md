@@ -33,7 +33,7 @@ Imagens externas utilizadas para validação e avaliação do modelo, permitindo
 análise do desempenho em dados não utilizados no treinamento.
 
 ### PROGRAMAS
-Notebooks Jupyter organizados em ordem sequencial do pipeline experimental:
+Notebooks Jupyter, utilizando o ambiente Google Colab, organizados em ordem sequencial do pipeline experimental:
 1. Renomeação das imagens  
 2. Padronização geométrica e de contraste  
 3. Extração automática de ROIs  
@@ -45,8 +45,7 @@ Arquivos de configuração, treinamento e resultados do modelo YOLOv8 empregado
 na classificação morfológica do côndilo mandibular.
 
 ### REGISTROS
-Arquivos de rastreabilidade, logs de processamento e registros auxiliares
-utilizados para documentação e controle experimental.
+Arquivos de rastreabilidade.
 
 ---
 
