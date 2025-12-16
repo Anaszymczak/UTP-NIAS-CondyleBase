@@ -44,9 +44,6 @@ Notebooks Jupyter, utilizando o ambiente Google Colab, organizados em ordem sequ
 Arquivos de configuração, treinamento e resultados do modelo YOLOv8 empregado
 na classificação morfológica do côndilo mandibular.
 
-### REGISTROS
-Arquivos de rastreabilidade.
-
 ---
 
 ## Observações
