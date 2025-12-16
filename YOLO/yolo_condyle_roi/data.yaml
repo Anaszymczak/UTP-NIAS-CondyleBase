@@ -1,0 +1,8 @@
+path: /content/drive/MyDrive/UTP_ATM_V3/YOLO/yolo_condyle_roi
+
+train: images/train
+val: images/val
+
+names:
+  0: Normal
+  1: Achatado

@@ -1,0 +1,400 @@
+img100A -> padronizada (espelhada) => A_PADRONIZADO/img100A_padronizado.png
+img10A -> padronizada (mantida) => A_PADRONIZADO/img10A_padronizado.png
+img11A -> padronizada (mantida) => A_PADRONIZADO/img11A_padronizado.png
+img12A -> padronizada (espelhada) => A_PADRONIZADO/img12A_padronizado.png
+img13A -> padronizada (espelhada) => A_PADRONIZADO/img13A_padronizado.png
+img14A -> padronizada (mantida) => A_PADRONIZADO/img14A_padronizado.png
+img15A -> padronizada (mantida) => A_PADRONIZADO/img15A_padronizado.png
+img16A -> padronizada (espelhada) => A_PADRONIZADO/img16A_padronizado.png
+img17A -> padronizada (espelhada) => A_PADRONIZADO/img17A_padronizado.png
+img18A -> padronizada (espelhada) => A_PADRONIZADO/img18A_padronizado.png
+img19A -> padronizada (espelhada) => A_PADRONIZADO/img19A_padronizado.png
+img1A -> padronizada (mantida) => A_PADRONIZADO/img1A_padronizado.png
+img20A -> padronizada (espelhada) => A_PADRONIZADO/img20A_padronizado.png
+img21A -> padronizada (mantida) => A_PADRONIZADO/img21A_padronizado.png
+img22A -> padronizada (mantida) => A_PADRONIZADO/img22A_padronizado.png
+img23A -> padronizada (mantida) => A_PADRONIZADO/img23A_padronizado.png
+img24A -> padronizada (mantida) => A_PADRONIZADO/img24A_padronizado.png
+img25A -> padronizada (espelhada) => A_PADRONIZADO/img25A_padronizado.png
+img26A -> padronizada (mantida) => A_PADRONIZADO/img26A_padronizado.png
+img27A -> padronizada (mantida) => A_PADRONIZADO/img27A_padronizado.png
+img28A -> padronizada (mantida) => A_PADRONIZADO/img28A_padronizado.png
+img29A -> padronizada (espelhada) => A_PADRONIZADO/img29A_padronizado.png
+img2A -> padronizada (mantida) => A_PADRONIZADO/img2A_padronizado.png
+img30A -> padronizada (espelhada) => A_PADRONIZADO/img30A_padronizado.png
+img31A -> padronizada (espelhada) => A_PADRONIZADO/img31A_padronizado.png
+img32A -> padronizada (espelhada) => A_PADRONIZADO/img32A_padronizado.png
+img33A -> padronizada (espelhada) => A_PADRONIZADO/img33A_padronizado.png
+img34A -> padronizada (espelhada) => A_PADRONIZADO/img34A_padronizado.png
+img35A -> padronizada (espelhada) => A_PADRONIZADO/img35A_padronizado.png
+img36A -> padronizada (espelhada) => A_PADRONIZADO/img36A_padronizado.png
+img37A -> padronizada (espelhada) => A_PADRONIZADO/img37A_padronizado.png
+img38A -> padronizada (espelhada) => A_PADRONIZADO/img38A_padronizado.png
+img39A -> padronizada (mantida) => A_PADRONIZADO/img39A_padronizado.png
+img3A -> padronizada (mantida) => A_PADRONIZADO/img3A_padronizado.png
+img40A -> padronizada (espelhada) => A_PADRONIZADO/img40A_padronizado.png
+img41A -> padronizada (espelhada) => A_PADRONIZADO/img41A_padronizado.png
+img42A -> padronizada (espelhada) => A_PADRONIZADO/img42A_padronizado.png
+img43A -> padronizada (mantida) => A_PADRONIZADO/img43A_padronizado.png
+img44A -> padronizada (mantida) => A_PADRONIZADO/img44A_padronizado.png
+img45A -> padronizada (espelhada) => A_PADRONIZADO/img45A_padronizado.png
+img46A -> padronizada (espelhada) => A_PADRONIZADO/img46A_padronizado.png
+img47A -> padronizada (mantida) => A_PADRONIZADO/img47A_padronizado.png
+img48A -> padronizada (mantida) => A_PADRONIZADO/img48A_padronizado.png
+img49A -> padronizada (mantida) => A_PADRONIZADO/img49A_padronizado.png
+img4A -> padronizada (espelhada) => A_PADRONIZADO/img4A_padronizado.png
+img50A -> padronizada (mantida) => A_PADRONIZADO/img50A_padronizado.png
+img51A -> padronizada (mantida) => A_PADRONIZADO/img51A_padronizado.png
+img52A -> padronizada (mantida) => A_PADRONIZADO/img52A_padronizado.png
+img53A -> padronizada (espelhada) => A_PADRONIZADO/img53A_padronizado.png
+img54A -> padronizada (espelhada) => A_PADRONIZADO/img54A_padronizado.png
+img55A -> padronizada (mantida) => A_PADRONIZADO/img55A_padronizado.png
+img56A -> padronizada (mantida) => A_PADRONIZADO/img56A_padronizado.png
+img57A -> padronizada (espelhada) => A_PADRONIZADO/img57A_padronizado.png
+img58A -> padronizada (mantida) => A_PADRONIZADO/img58A_padronizado.png
+img59A -> padronizada (mantida) => A_PADRONIZADO/img59A_padronizado.png
+img5A -> padronizada (espelhada) => A_PADRONIZADO/img5A_padronizado.png
+img60A -> padronizada (mantida) => A_PADRONIZADO/img60A_padronizado.png
+img61A -> padronizada (espelhada) => A_PADRONIZADO/img61A_padronizado.png
+img62A -> padronizada (mantida) => A_PADRONIZADO/img62A_padronizado.png
+img63A -> padronizada (espelhada) => A_PADRONIZADO/img63A_padronizado.png
+img64A -> padronizada (mantida) => A_PADRONIZADO/img64A_padronizado.png
+img65A -> padronizada (mantida) => A_PADRONIZADO/img65A_padronizado.png
+img66A -> padronizada (espelhada) => A_PADRONIZADO/img66A_padronizado.png
+img67A -> padronizada (espelhada) => A_PADRONIZADO/img67A_padronizado.png
+img68A -> padronizada (mantida) => A_PADRONIZADO/img68A_padronizado.png
+img69A -> padronizada (mantida) => A_PADRONIZADO/img69A_padronizado.png
+img6A -> padronizada (mantida) => A_PADRONIZADO/img6A_padronizado.png
+img70A -> padronizada (mantida) => A_PADRONIZADO/img70A_padronizado.png
+img71A -> padronizada (mantida) => A_PADRONIZADO/img71A_padronizado.png
+img72A -> padronizada (espelhada) => A_PADRONIZADO/img72A_padronizado.png
+img73A -> padronizada (mantida) => A_PADRONIZADO/img73A_padronizado.png
+img74A -> padronizada (espelhada) => A_PADRONIZADO/img74A_padronizado.png
+img75A -> padronizada (espelhada) => A_PADRONIZADO/img75A_padronizado.png
+img76A -> padronizada (espelhada) => A_PADRONIZADO/img76A_padronizado.png
+img77A -> padronizada (espelhada) => A_PADRONIZADO/img77A_padronizado.png
+img78A -> padronizada (mantida) => A_PADRONIZADO/img78A_padronizado.png
+img79A -> padronizada (mantida) => A_PADRONIZADO/img79A_padronizado.png
+img7A -> padronizada (mantida) => A_PADRONIZADO/img7A_padronizado.png
+img80A -> padronizada (espelhada) => A_PADRONIZADO/img80A_padronizado.png
+img81A -> padronizada (mantida) => A_PADRONIZADO/img81A_padronizado.png
+img82A -> padronizada (mantida) => A_PADRONIZADO/img82A_padronizado.png
+img83A -> padronizada (espelhada) => A_PADRONIZADO/img83A_padronizado.png
+img84A -> padronizada (espelhada) => A_PADRONIZADO/img84A_padronizado.png
+img85A -> padronizada (mantida) => A_PADRONIZADO/img85A_padronizado.png
+img86A -> padronizada (mantida) => A_PADRONIZADO/img86A_padronizado.png
+img87A -> padronizada (mantida) => A_PADRONIZADO/img87A_padronizado.png
+img88A -> padronizada (mantida) => A_PADRONIZADO/img88A_padronizado.png
+img89A -> padronizada (espelhada) => A_PADRONIZADO/img89A_padronizado.png
+img8A -> padronizada (espelhada) => A_PADRONIZADO/img8A_padronizado.png
+img90A -> padronizada (espelhada) => A_PADRONIZADO/img90A_padronizado.png
+img91A -> padronizada (espelhada) => A_PADRONIZADO/img91A_padronizado.png
+img92A -> padronizada (espelhada) => A_PADRONIZADO/img92A_padronizado.png
+img93A -> padronizada (mantida) => A_PADRONIZADO/img93A_padronizado.png
+img94A -> padronizada (mantida) => A_PADRONIZADO/img94A_padronizado.png
+img95A -> padronizada (mantida) => A_PADRONIZADO/img95A_padronizado.png
+img96A -> padronizada (mantida) => A_PADRONIZADO/img96A_padronizado.png
+img97A -> padronizada (espelhada) => A_PADRONIZADO/img97A_padronizado.png
+img98A -> padronizada (mantida) => A_PADRONIZADO/img98A_padronizado.png
+img99A -> padronizada (mantida) => A_PADRONIZADO/img99A_padronizado.png
+img9A -> padronizada (mantida) => A_PADRONIZADO/img9A_padronizado.png
+img100N -> padronizada (espelhada) => N_PADRONIZADO/img100N_padronizado.png
+img10N -> padronizada (espelhada) => N_PADRONIZADO/img10N_padronizado.png
+img11N -> padronizada (mantida) => N_PADRONIZADO/img11N_padronizado.png
+img12N -> padronizada (mantida) => N_PADRONIZADO/img12N_padronizado.png
+img13N -> padronizada (mantida) => N_PADRONIZADO/img13N_padronizado.png
+img14N -> padronizada (mantida) => N_PADRONIZADO/img14N_padronizado.png
+img15N -> padronizada (espelhada) => N_PADRONIZADO/img15N_padronizado.png
+img16N -> padronizada (espelhada) => N_PADRONIZADO/img16N_padronizado.png
+img17N -> padronizada (mantida) => N_PADRONIZADO/img17N_padronizado.png
+img18N -> padronizada (mantida) => N_PADRONIZADO/img18N_padronizado.png
+img19N -> padronizada (espelhada) => N_PADRONIZADO/img19N_padronizado.png
+img1N -> padronizada (mantida) => N_PADRONIZADO/img1N_padronizado.png
+img20N -> padronizada (mantida) => N_PADRONIZADO/img20N_padronizado.png
+img21N -> padronizada (mantida) => N_PADRONIZADO/img21N_padronizado.png
+img22N -> padronizada (mantida) => N_PADRONIZADO/img22N_padronizado.png
+img23N -> padronizada (mantida) => N_PADRONIZADO/img23N_padronizado.png
+img24N -> padronizada (mantida) => N_PADRONIZADO/img24N_padronizado.png
+img25N -> padronizada (mantida) => N_PADRONIZADO/img25N_padronizado.png
+img26N -> padronizada (espelhada) => N_PADRONIZADO/img26N_padronizado.png
+img27N -> padronizada (espelhada) => N_PADRONIZADO/img27N_padronizado.png
+img28N -> padronizada (mantida) => N_PADRONIZADO/img28N_padronizado.png
+img29N -> padronizada (espelhada) => N_PADRONIZADO/img29N_padronizado.png
+img2N -> padronizada (espelhada) => N_PADRONIZADO/img2N_padronizado.png
+img30N -> padronizada (mantida) => N_PADRONIZADO/img30N_padronizado.png
+img31N -> padronizada (mantida) => N_PADRONIZADO/img31N_padronizado.png
+img32N -> padronizada (espelhada) => N_PADRONIZADO/img32N_padronizado.png
+img33N -> padronizada (espelhada) => N_PADRONIZADO/img33N_padronizado.png
+img34N -> padronizada (espelhada) => N_PADRONIZADO/img34N_padronizado.png
+img35N -> padronizada (espelhada) => N_PADRONIZADO/img35N_padronizado.png
+img36N -> padronizada (mantida) => N_PADRONIZADO/img36N_padronizado.png
+img37N -> padronizada (mantida) => N_PADRONIZADO/img37N_padronizado.png
+img38N -> padronizada (espelhada) => N_PADRONIZADO/img38N_padronizado.png
+img39N -> padronizada (espelhada) => N_PADRONIZADO/img39N_padronizado.png
+img3N -> padronizada (espelhada) => N_PADRONIZADO/img3N_padronizado.png
+img40N -> padronizada (mantida) => N_PADRONIZADO/img40N_padronizado.png
+img41N -> padronizada (mantida) => N_PADRONIZADO/img41N_padronizado.png
+img42N -> padronizada (espelhada) => N_PADRONIZADO/img42N_padronizado.png
+img43N -> padronizada (mantida) => N_PADRONIZADO/img43N_padronizado.png
+img44N -> padronizada (mantida) => N_PADRONIZADO/img44N_padronizado.png
+img45N -> padronizada (espelhada) => N_PADRONIZADO/img45N_padronizado.png
+img46N -> padronizada (espelhada) => N_PADRONIZADO/img46N_padronizado.png
+img47N -> padronizada (espelhada) => N_PADRONIZADO/img47N_padronizado.png
+img48N -> padronizada (mantida) => N_PADRONIZADO/img48N_padronizado.png
+img49N -> padronizada (mantida) => N_PADRONIZADO/img49N_padronizado.png
+img4N -> padronizada (mantida) => N_PADRONIZADO/img4N_padronizado.png
+img50N -> padronizada (mantida) => N_PADRONIZADO/img50N_padronizado.png
+img51N -> padronizada (mantida) => N_PADRONIZADO/img51N_padronizado.png
+img52N -> padronizada (espelhada) => N_PADRONIZADO/img52N_padronizado.png
+img53N -> padronizada (espelhada) => N_PADRONIZADO/img53N_padronizado.png
+img54N -> padronizada (espelhada) => N_PADRONIZADO/img54N_padronizado.png
+img55N -> padronizada (mantida) => N_PADRONIZADO/img55N_padronizado.png
+img56N -> padronizada (mantida) => N_PADRONIZADO/img56N_padronizado.png
+img57N -> padronizada (espelhada) => N_PADRONIZADO/img57N_padronizado.png
+img58N -> padronizada (espelhada) => N_PADRONIZADO/img58N_padronizado.png
+img59N -> padronizada (mantida) => N_PADRONIZADO/img59N_padronizado.png
+img5N -> padronizada (mantida) => N_PADRONIZADO/img5N_padronizado.png
+img60N -> padronizada (mantida) => N_PADRONIZADO/img60N_padronizado.png
+img61N -> padronizada (espelhada) => N_PADRONIZADO/img61N_padronizado.png
+img62N -> padronizada (espelhada) => N_PADRONIZADO/img62N_padronizado.png
+img63N -> padronizada (mantida) => N_PADRONIZADO/img63N_padronizado.png
+img64N -> padronizada (mantida) => N_PADRONIZADO/img64N_padronizado.png
+img65N -> padronizada (espelhada) => N_PADRONIZADO/img65N_padronizado.png
+img66N -> padronizada (mantida) => N_PADRONIZADO/img66N_padronizado.png
+img67N -> padronizada (mantida) => N_PADRONIZADO/img67N_padronizado.png
+img68N -> padronizada (espelhada) => N_PADRONIZADO/img68N_padronizado.png
+img69N -> padronizada (espelhada) => N_PADRONIZADO/img69N_padronizado.png
+img6N -> padronizada (espelhada) => N_PADRONIZADO/img6N_padronizado.png
+img70N -> padronizada (espelhada) => N_PADRONIZADO/img70N_padronizado.png
+img71N -> padronizada (mantida) => N_PADRONIZADO/img71N_padronizado.png
+img72N -> padronizada (espelhada) => N_PADRONIZADO/img72N_padronizado.png
+img73N -> padronizada (espelhada) => N_PADRONIZADO/img73N_padronizado.png
+img74N -> padronizada (mantida) => N_PADRONIZADO/img74N_padronizado.png
+img75N -> padronizada (espelhada) => N_PADRONIZADO/img75N_padronizado.png
+img76N -> padronizada (mantida) => N_PADRONIZADO/img76N_padronizado.png
+img77N -> padronizada (espelhada) => N_PADRONIZADO/img77N_padronizado.png
+img78N -> padronizada (espelhada) => N_PADRONIZADO/img78N_padronizado.png
+img79N -> padronizada (mantida) => N_PADRONIZADO/img79N_padronizado.png
+img7N -> padronizada (mantida) => N_PADRONIZADO/img7N_padronizado.png
+img80N -> padronizada (espelhada) => N_PADRONIZADO/img80N_padronizado.png
+img81N -> padronizada (espelhada) => N_PADRONIZADO/img81N_padronizado.png
+img82N -> padronizada (mantida) => N_PADRONIZADO/img82N_padronizado.png
+img83N -> padronizada (espelhada) => N_PADRONIZADO/img83N_padronizado.png
+img84N -> padronizada (mantida) => N_PADRONIZADO/img84N_padronizado.png
+img85N -> padronizada (mantida) => N_PADRONIZADO/img85N_padronizado.png
+img86N -> padronizada (mantida) => N_PADRONIZADO/img86N_padronizado.png
+img87N -> padronizada (mantida) => N_PADRONIZADO/img87N_padronizado.png
+img88N -> padronizada (mantida) => N_PADRONIZADO/img88N_padronizado.png
+img89N -> padronizada (mantida) => N_PADRONIZADO/img89N_padronizado.png
+img8N -> padronizada (mantida) => N_PADRONIZADO/img8N_padronizado.png
+img90N -> padronizada (espelhada) => N_PADRONIZADO/img90N_padronizado.png
+img91N -> padronizada (espelhada) => N_PADRONIZADO/img91N_padronizado.png
+img92N -> padronizada (mantida) => N_PADRONIZADO/img92N_padronizado.png
+img93N -> padronizada (mantida) => N_PADRONIZADO/img93N_padronizado.png
+img94N -> padronizada (mantida) => N_PADRONIZADO/img94N_padronizado.png
+img95N -> padronizada (espelhada) => N_PADRONIZADO/img95N_padronizado.png
+img96N -> padronizada (mantida) => N_PADRONIZADO/img96N_padronizado.png
+img97N -> padronizada (espelhada) => N_PADRONIZADO/img97N_padronizado.png
+img98N -> padronizada (mantida) => N_PADRONIZADO/img98N_padronizado.png
+img99N -> padronizada (mantida) => N_PADRONIZADO/img99N_padronizado.png
+img9N -> padronizada (espelhada) => N_PADRONIZADO/img9N_padronizado.png
+img100A_padronizado -> ROI gerada: A_ROI/img100A_padronizado_ROI.png
+img10A_padronizado -> ROI gerada: A_ROI/img10A_padronizado_ROI.png
+img11A_padronizado -> ROI gerada: A_ROI/img11A_padronizado_ROI.png
+img12A_padronizado -> ROI gerada: A_ROI/img12A_padronizado_ROI.png
+img13A_padronizado -> ROI gerada: A_ROI/img13A_padronizado_ROI.png
+img14A_padronizado -> ROI gerada: A_ROI/img14A_padronizado_ROI.png
+img15A_padronizado -> ROI gerada: A_ROI/img15A_padronizado_ROI.png
+img16A_padronizado -> ROI gerada: A_ROI/img16A_padronizado_ROI.png
+img17A_padronizado -> ROI gerada: A_ROI/img17A_padronizado_ROI.png
+img18A_padronizado -> ROI gerada: A_ROI/img18A_padronizado_ROI.png
+img19A_padronizado -> ROI gerada: A_ROI/img19A_padronizado_ROI.png
+img1A_padronizado -> ROI gerada: A_ROI/img1A_padronizado_ROI.png
+img20A_padronizado -> ROI gerada: A_ROI/img20A_padronizado_ROI.png
+img21A_padronizado -> ROI gerada: A_ROI/img21A_padronizado_ROI.png
+img22A_padronizado -> ROI gerada: A_ROI/img22A_padronizado_ROI.png
+img23A_padronizado -> ROI gerada: A_ROI/img23A_padronizado_ROI.png
+img24A_padronizado -> ROI gerada: A_ROI/img24A_padronizado_ROI.png
+img25A_padronizado -> ROI gerada: A_ROI/img25A_padronizado_ROI.png
+img26A_padronizado -> ROI gerada: A_ROI/img26A_padronizado_ROI.png
+img27A_padronizado -> ROI gerada: A_ROI/img27A_padronizado_ROI.png
+img28A_padronizado -> ROI gerada: A_ROI/img28A_padronizado_ROI.png
+img29A_padronizado -> ROI gerada: A_ROI/img29A_padronizado_ROI.png
+img2A_padronizado -> ROI gerada: A_ROI/img2A_padronizado_ROI.png
+img30A_padronizado -> ROI gerada: A_ROI/img30A_padronizado_ROI.png
+img31A_padronizado -> ROI gerada: A_ROI/img31A_padronizado_ROI.png
+img32A_padronizado -> ROI gerada: A_ROI/img32A_padronizado_ROI.png
+img33A_padronizado -> ROI gerada: A_ROI/img33A_padronizado_ROI.png
+img34A_padronizado -> ROI gerada: A_ROI/img34A_padronizado_ROI.png
+img35A_padronizado -> ROI gerada: A_ROI/img35A_padronizado_ROI.png
+img36A_padronizado -> ROI gerada: A_ROI/img36A_padronizado_ROI.png
+img37A_padronizado -> ROI gerada: A_ROI/img37A_padronizado_ROI.png
+img38A_padronizado -> ROI gerada: A_ROI/img38A_padronizado_ROI.png
+img39A_padronizado -> ROI gerada: A_ROI/img39A_padronizado_ROI.png
+img3A_padronizado -> ROI gerada: A_ROI/img3A_padronizado_ROI.png
+img40A_padronizado -> ROI gerada: A_ROI/img40A_padronizado_ROI.png
+img41A_padronizado -> ROI gerada: A_ROI/img41A_padronizado_ROI.png
+img42A_padronizado -> ROI gerada: A_ROI/img42A_padronizado_ROI.png
+img43A_padronizado -> ROI gerada: A_ROI/img43A_padronizado_ROI.png
+img44A_padronizado -> ROI gerada: A_ROI/img44A_padronizado_ROI.png
+img45A_padronizado -> ROI gerada: A_ROI/img45A_padronizado_ROI.png
+img46A_padronizado -> ROI gerada: A_ROI/img46A_padronizado_ROI.png
+img47A_padronizado -> ROI gerada: A_ROI/img47A_padronizado_ROI.png
+img48A_padronizado -> ROI gerada: A_ROI/img48A_padronizado_ROI.png
+img49A_padronizado -> ROI gerada: A_ROI/img49A_padronizado_ROI.png
+img4A_padronizado -> ROI gerada: A_ROI/img4A_padronizado_ROI.png
+img50A_padronizado -> ROI gerada: A_ROI/img50A_padronizado_ROI.png
+img51A_padronizado -> ROI gerada: A_ROI/img51A_padronizado_ROI.png
+img52A_padronizado -> ROI gerada: A_ROI/img52A_padronizado_ROI.png
+img53A_padronizado -> ROI gerada: A_ROI/img53A_padronizado_ROI.png
+img54A_padronizado -> ROI gerada: A_ROI/img54A_padronizado_ROI.png
+img55A_padronizado -> ROI gerada: A_ROI/img55A_padronizado_ROI.png
+img56A_padronizado -> ROI gerada: A_ROI/img56A_padronizado_ROI.png
+img57A_padronizado -> ROI gerada: A_ROI/img57A_padronizado_ROI.png
+img58A_padronizado -> ROI gerada: A_ROI/img58A_padronizado_ROI.png
+img59A_padronizado -> ROI gerada: A_ROI/img59A_padronizado_ROI.png
+img5A_padronizado -> ROI gerada: A_ROI/img5A_padronizado_ROI.png
+img60A_padronizado -> ROI gerada: A_ROI/img60A_padronizado_ROI.png
+img61A_padronizado -> ROI gerada: A_ROI/img61A_padronizado_ROI.png
+img62A_padronizado -> ROI gerada: A_ROI/img62A_padronizado_ROI.png
+img63A_padronizado -> ROI gerada: A_ROI/img63A_padronizado_ROI.png
+img64A_padronizado -> ROI gerada: A_ROI/img64A_padronizado_ROI.png
+img65A_padronizado -> ROI gerada: A_ROI/img65A_padronizado_ROI.png
+img66A_padronizado -> ROI gerada: A_ROI/img66A_padronizado_ROI.png
+img67A_padronizado -> ROI gerada: A_ROI/img67A_padronizado_ROI.png
+img68A_padronizado -> ROI gerada: A_ROI/img68A_padronizado_ROI.png
+img69A_padronizado -> ROI gerada: A_ROI/img69A_padronizado_ROI.png
+img6A_padronizado -> ROI gerada: A_ROI/img6A_padronizado_ROI.png
+img70A_padronizado -> ROI gerada: A_ROI/img70A_padronizado_ROI.png
+img71A_padronizado -> ROI gerada: A_ROI/img71A_padronizado_ROI.png
+img72A_padronizado -> ROI gerada: A_ROI/img72A_padronizado_ROI.png
+img73A_padronizado -> ROI gerada: A_ROI/img73A_padronizado_ROI.png
+img74A_padronizado -> ROI gerada: A_ROI/img74A_padronizado_ROI.png
+img75A_padronizado -> ROI gerada: A_ROI/img75A_padronizado_ROI.png
+img76A_padronizado -> ROI gerada: A_ROI/img76A_padronizado_ROI.png
+img77A_padronizado -> ROI gerada: A_ROI/img77A_padronizado_ROI.png
+img78A_padronizado -> ROI gerada: A_ROI/img78A_padronizado_ROI.png
+img79A_padronizado -> ROI gerada: A_ROI/img79A_padronizado_ROI.png
+img7A_padronizado -> ROI gerada: A_ROI/img7A_padronizado_ROI.png
+img80A_padronizado -> ROI gerada: A_ROI/img80A_padronizado_ROI.png
+img81A_padronizado -> ROI gerada: A_ROI/img81A_padronizado_ROI.png
+img82A_padronizado -> ROI gerada: A_ROI/img82A_padronizado_ROI.png
+img83A_padronizado -> ROI gerada: A_ROI/img83A_padronizado_ROI.png
+img84A_padronizado -> ROI gerada: A_ROI/img84A_padronizado_ROI.png
+img85A_padronizado -> ROI gerada: A_ROI/img85A_padronizado_ROI.png
+img86A_padronizado -> ROI gerada: A_ROI/img86A_padronizado_ROI.png
+img87A_padronizado -> ROI gerada: A_ROI/img87A_padronizado_ROI.png
+img88A_padronizado -> ROI gerada: A_ROI/img88A_padronizado_ROI.png
+img89A_padronizado -> ROI gerada: A_ROI/img89A_padronizado_ROI.png
+img8A_padronizado -> ROI gerada: A_ROI/img8A_padronizado_ROI.png
+img90A_padronizado -> ROI gerada: A_ROI/img90A_padronizado_ROI.png
+img91A_padronizado -> ROI gerada: A_ROI/img91A_padronizado_ROI.png
+img92A_padronizado -> ROI gerada: A_ROI/img92A_padronizado_ROI.png
+img93A_padronizado -> ROI gerada: A_ROI/img93A_padronizado_ROI.png
+img94A_padronizado -> ROI gerada: A_ROI/img94A_padronizado_ROI.png
+img95A_padronizado -> ROI gerada: A_ROI/img95A_padronizado_ROI.png
+img96A_padronizado -> ROI gerada: A_ROI/img96A_padronizado_ROI.png
+img97A_padronizado -> ROI gerada: A_ROI/img97A_padronizado_ROI.png
+img98A_padronizado -> ROI gerada: A_ROI/img98A_padronizado_ROI.png
+img99A_padronizado -> ROI gerada: A_ROI/img99A_padronizado_ROI.png
+img9A_padronizado -> ROI gerada: A_ROI/img9A_padronizado_ROI.png
+img100N_padronizado -> ROI gerada: N_ROI/img100N_padronizado_ROI.png
+img10N_padronizado -> ROI gerada: N_ROI/img10N_padronizado_ROI.png
+img11N_padronizado -> ROI gerada: N_ROI/img11N_padronizado_ROI.png
+img12N_padronizado -> ROI gerada: N_ROI/img12N_padronizado_ROI.png
+img13N_padronizado -> ROI gerada: N_ROI/img13N_padronizado_ROI.png
+img14N_padronizado -> ROI gerada: N_ROI/img14N_padronizado_ROI.png
+img15N_padronizado -> ROI gerada: N_ROI/img15N_padronizado_ROI.png
+img16N_padronizado -> ROI gerada: N_ROI/img16N_padronizado_ROI.png
+img17N_padronizado -> ROI gerada: N_ROI/img17N_padronizado_ROI.png
+img18N_padronizado -> ROI gerada: N_ROI/img18N_padronizado_ROI.png
+img19N_padronizado -> ROI gerada: N_ROI/img19N_padronizado_ROI.png
+img1N_padronizado -> ROI gerada: N_ROI/img1N_padronizado_ROI.png
+img20N_padronizado -> ROI gerada: N_ROI/img20N_padronizado_ROI.png
+img21N_padronizado -> ROI gerada: N_ROI/img21N_padronizado_ROI.png
+img22N_padronizado -> ROI gerada: N_ROI/img22N_padronizado_ROI.png
+img23N_padronizado -> ROI gerada: N_ROI/img23N_padronizado_ROI.png
+img24N_padronizado -> ROI gerada: N_ROI/img24N_padronizado_ROI.png
+img25N_padronizado -> ROI gerada: N_ROI/img25N_padronizado_ROI.png
+img26N_padronizado -> ROI gerada: N_ROI/img26N_padronizado_ROI.png
+img27N_padronizado -> ROI gerada: N_ROI/img27N_padronizado_ROI.png
+img28N_padronizado -> ROI gerada: N_ROI/img28N_padronizado_ROI.png
+img29N_padronizado -> ROI gerada: N_ROI/img29N_padronizado_ROI.png
+img2N_padronizado -> ROI gerada: N_ROI/img2N_padronizado_ROI.png
+img30N_padronizado -> ROI gerada: N_ROI/img30N_padronizado_ROI.png
+img31N_padronizado -> ROI gerada: N_ROI/img31N_padronizado_ROI.png
+img32N_padronizado -> ROI gerada: N_ROI/img32N_padronizado_ROI.png
+img33N_padronizado -> ROI gerada: N_ROI/img33N_padronizado_ROI.png
+img34N_padronizado -> ROI gerada: N_ROI/img34N_padronizado_ROI.png
+img35N_padronizado -> ROI gerada: N_ROI/img35N_padronizado_ROI.png
+img36N_padronizado -> ROI gerada: N_ROI/img36N_padronizado_ROI.png
+img37N_padronizado -> ROI gerada: N_ROI/img37N_padronizado_ROI.png
+img38N_padronizado -> ROI gerada: N_ROI/img38N_padronizado_ROI.png
+img39N_padronizado -> ROI gerada: N_ROI/img39N_padronizado_ROI.png
+img3N_padronizado -> ROI gerada: N_ROI/img3N_padronizado_ROI.png
+img40N_padronizado -> ROI gerada: N_ROI/img40N_padronizado_ROI.png
+img41N_padronizado -> ROI gerada: N_ROI/img41N_padronizado_ROI.png
+img42N_padronizado -> ROI gerada: N_ROI/img42N_padronizado_ROI.png
+img43N_padronizado -> ROI gerada: N_ROI/img43N_padronizado_ROI.png
+img44N_padronizado -> ROI gerada: N_ROI/img44N_padronizado_ROI.png
+img45N_padronizado -> ROI gerada: N_ROI/img45N_padronizado_ROI.png
+img46N_padronizado -> ROI gerada: N_ROI/img46N_padronizado_ROI.png
+img47N_padronizado -> ROI gerada: N_ROI/img47N_padronizado_ROI.png
+img48N_padronizado -> ROI gerada: N_ROI/img48N_padronizado_ROI.png
+img49N_padronizado -> ROI gerada: N_ROI/img49N_padronizado_ROI.png
+img4N_padronizado -> ROI gerada: N_ROI/img4N_padronizado_ROI.png
+img50N_padronizado -> ROI gerada: N_ROI/img50N_padronizado_ROI.png
+img51N_padronizado -> ROI gerada: N_ROI/img51N_padronizado_ROI.png
+img52N_padronizado -> ROI gerada: N_ROI/img52N_padronizado_ROI.png
+img53N_padronizado -> ROI gerada: N_ROI/img53N_padronizado_ROI.png
+img54N_padronizado -> ROI gerada: N_ROI/img54N_padronizado_ROI.png
+img55N_padronizado -> ROI gerada: N_ROI/img55N_padronizado_ROI.png
+img56N_padronizado -> ROI gerada: N_ROI/img56N_padronizado_ROI.png
+img57N_padronizado -> ROI gerada: N_ROI/img57N_padronizado_ROI.png
+img58N_padronizado -> ROI gerada: N_ROI/img58N_padronizado_ROI.png
+img59N_padronizado -> ROI gerada: N_ROI/img59N_padronizado_ROI.png
+img5N_padronizado -> ROI gerada: N_ROI/img5N_padronizado_ROI.png
+img60N_padronizado -> ROI gerada: N_ROI/img60N_padronizado_ROI.png
+img61N_padronizado -> ROI gerada: N_ROI/img61N_padronizado_ROI.png
+img62N_padronizado -> ROI gerada: N_ROI/img62N_padronizado_ROI.png
+img63N_padronizado -> ROI gerada: N_ROI/img63N_padronizado_ROI.png
+img64N_padronizado -> ROI gerada: N_ROI/img64N_padronizado_ROI.png
+img65N_padronizado -> ROI gerada: N_ROI/img65N_padronizado_ROI.png
+img66N_padronizado -> ROI gerada: N_ROI/img66N_padronizado_ROI.png
+img67N_padronizado -> ROI gerada: N_ROI/img67N_padronizado_ROI.png
+img68N_padronizado -> ROI gerada: N_ROI/img68N_padronizado_ROI.png
+img69N_padronizado -> ROI gerada: N_ROI/img69N_padronizado_ROI.png
+img6N_padronizado -> ROI gerada: N_ROI/img6N_padronizado_ROI.png
+img70N_padronizado -> ROI gerada: N_ROI/img70N_padronizado_ROI.png
+img71N_padronizado -> ROI gerada: N_ROI/img71N_padronizado_ROI.png
+img72N_padronizado -> ROI gerada: N_ROI/img72N_padronizado_ROI.png
+img73N_padronizado -> ROI gerada: N_ROI/img73N_padronizado_ROI.png
+img74N_padronizado -> ROI gerada: N_ROI/img74N_padronizado_ROI.png
+img75N_padronizado -> ROI gerada: N_ROI/img75N_padronizado_ROI.png
+img76N_padronizado -> ROI gerada: N_ROI/img76N_padronizado_ROI.png
+img77N_padronizado -> ROI gerada: N_ROI/img77N_padronizado_ROI.png
+img78N_padronizado -> ROI gerada: N_ROI/img78N_padronizado_ROI.png
+img79N_padronizado -> ROI gerada: N_ROI/img79N_padronizado_ROI.png
+img7N_padronizado -> ROI gerada: N_ROI/img7N_padronizado_ROI.png
+img80N_padronizado -> ROI gerada: N_ROI/img80N_padronizado_ROI.png
+img81N_padronizado -> ROI gerada: N_ROI/img81N_padronizado_ROI.png
+img82N_padronizado -> ROI gerada: N_ROI/img82N_padronizado_ROI.png
+img83N_padronizado -> ROI gerada: N_ROI/img83N_padronizado_ROI.png
+img84N_padronizado -> ROI gerada: N_ROI/img84N_padronizado_ROI.png
+img85N_padronizado -> ROI gerada: N_ROI/img85N_padronizado_ROI.png
+img86N_padronizado -> ROI gerada: N_ROI/img86N_padronizado_ROI.png
+img87N_padronizado -> ROI gerada: N_ROI/img87N_padronizado_ROI.png
+img88N_padronizado -> ROI gerada: N_ROI/img88N_padronizado_ROI.png
+img89N_padronizado -> ROI gerada: N_ROI/img89N_padronizado_ROI.png
+img8N_padronizado -> ROI gerada: N_ROI/img8N_padronizado_ROI.png
+img90N_padronizado -> ROI gerada: N_ROI/img90N_padronizado_ROI.png
+img91N_padronizado -> ROI gerada: N_ROI/img91N_padronizado_ROI.png
+img92N_padronizado -> ROI gerada: N_ROI/img92N_padronizado_ROI.png
+img93N_padronizado -> ROI gerada: N_ROI/img93N_padronizado_ROI.png
+img94N_padronizado -> ROI gerada: N_ROI/img94N_padronizado_ROI.png
+img95N_padronizado -> ROI gerada: N_ROI/img95N_padronizado_ROI.png
+img96N_padronizado -> ROI gerada: N_ROI/img96N_padronizado_ROI.png
+img97N_padronizado -> ROI gerada: N_ROI/img97N_padronizado_ROI.png
+img98N_padronizado -> ROI gerada: N_ROI/img98N_padronizado_ROI.png
+img99N_padronizado -> ROI gerada: N_ROI/img99N_padronizado_ROI.png
+img9N_padronizado -> ROI gerada: N_ROI/img9N_padronizado_ROI.png
