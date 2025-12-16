@@ -53,7 +53,7 @@ objetivo de promover **transparência, reprodutibilidade e compreensão do fluxo
 experimental**, permitindo que pesquisadores externos compreendam tanto a
 organização dos dados quanto as etapas do pipeline de processamento.
 
-## License
+## Licença
 
 - **Source code and notebooks:** MIT License  
 - **Datasets and images:** Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)
