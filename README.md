@@ -14,7 +14,7 @@ em colaboração com o **Escritório Modelo de Computação (EMC)** da
 
 ---
 
-## Estrutura de pastas
+## Estrutura de diretórios
 
 ### A_ORIGINAL / N_ORIGINAL
 Imagens radiográficas originais, sem qualquer processamento, referentes às
