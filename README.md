@@ -1,7 +1,7 @@
 # CondyleBase
 
 <p align="center">
-  <img src="logos/nias_emc_utp.png" alt="NIAS, EMC e Universidade Tuiuti do Paraná" height="80"/>
+  <img src="LOGOS/nias_emc_utp.png" alt="NIAS, EMC e Universidade Tuiuti do Paraná" height="80"/>
 </p>
 
 Este repositório contém a base de dados e o pipeline completo de processamento
